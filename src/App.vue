@@ -9,6 +9,7 @@
 </template>
 
 <style lang="sass">
+$column-gap: 16px !default;
 $desktop: 1025px !default;
 $widescreen: 1217px !default;
 @import "bulma/bulma.sass"
